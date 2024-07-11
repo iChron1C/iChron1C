@@ -2,12 +2,16 @@
 
 
 
-<p align="left">I'm Java Student 👨‍💻<br><br>🏡 I live in Brazil<br><br>🧑🏽‍🔧 I started working with Computer Maintenance in 2013.<br><br>⭐ I started programming in 2018.<br><br>🌟 In 2020 I implement my first project of sales and inventory management. <br><br>📈 In 2022 I implement a weighing and printing management project with Zebra printer and Digital Scale.<br><br>And today I still keep going for new challenges ✌️</p>
+<p align="left">I'm IT Student 👨‍💻<br><br>🏡 I live in Brazil<br><br>🧑🏽‍🔧 I started working with Computer Maintenance in 2013.<br><br>⭐ I started programming in 2018.<br><br>🌟 In 2020 I implement my first project of sales and inventory management. <br><br>📈 In 2022 I implement a weighing and printing management project with Zebra printer and Digital Scale.<br><br>And today I still keep going for new challenges ✌️</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  heigth ="40" width="52" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  heigth ="40" width="52" alt="javascript logo" />
+          
+          
 </div>
 <br><br>
 <div align="center">
